@@ -48,8 +48,10 @@
 My Github Stats
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shivamswarnkar&theme=dracula) 
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=shivamswarnkar&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
+<br/>
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shivamswarnkar&theme=dracula) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shivamswarnkar&theme=dracula)
+
 
 </details>
